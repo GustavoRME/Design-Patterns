@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6459f256eb52f94418f7f9cc37195352, type: 3}
+  m_Name: Staff
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 100000, guid: ffae9263bd1a66245bd2bad16f271364, type: 3}
+  damage: 6
+  delay: 0.2
+  canStun: 0
+  canSlow: 1
+  canPoison: 0
+  stunTime: 0
+  slowTime: 0.3
+  poisonTime: 0
+  poisonDamage: 0
